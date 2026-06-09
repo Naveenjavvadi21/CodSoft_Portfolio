@@ -103,6 +103,13 @@ PortfolioWebsite/
 
 3. Open index.html in any web browser.
 
+
+## Output
+<img width="1917" height="953" alt="image" src="https://github.com/user-attachments/assets/55f93b53-b048-4365-8be2-37fcf9150fce" />
+
+<img width="1918" height="956" alt="image" src="https://github.com/user-attachments/assets/ab8fded9-1bd2-47f0-9464-b09469e17358" />
+
+
 ## Learning Outcomes
 
 - HTML Page Structure
